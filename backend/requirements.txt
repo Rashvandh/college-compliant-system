@@ -12,5 +12,4 @@ numpy
 joblib
 python-dotenv
 aiofiles
-sqlite
 groq
