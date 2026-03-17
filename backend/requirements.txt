@@ -12,4 +12,5 @@ numpy
 joblib
 python-dotenv
 aiofiles
+email-validator
 groq
